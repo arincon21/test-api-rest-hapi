@@ -1,0 +1,16 @@
+{
+  "name": "dobla-api",
+  "description": "API Dobla",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  },
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "inert": "^5.1.3",
+    "mysql": "^2.16.0"
+  }
+}
